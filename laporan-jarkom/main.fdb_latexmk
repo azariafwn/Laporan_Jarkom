@@ -1,11 +1,11 @@
 # Fdb version 4
-["biber main"] 1714582665 "main.bcf" "main.bbl" "main" 1714582792 0
-  "main.bcf" 1714582792 106702 c266856593a44b0bb4ae50b30663bde7 "pdflatex"
+["biber main"] 1714583457 "main.bcf" "main.bbl" "main" 1714583467 0
+  "main.bcf" 1714583466 106702 c266856593a44b0bb4ae50b30663bde7 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1714582789 "d:/TUGAS/clone_GitHub/laporan-jarkom/main.tex" "main.pdf" "main" 1714582792 0
+["pdflatex"] 1714583462 "d:/TUGAS/SEM4/JARKOM/PRAKTIKUM-JARKOM/Laporan_Jarkom/laporan-jarkom/main.tex" "main.pdf" "main" 1714583467 0
   "C:/Users/Zafa/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1714577690 121421 986c656c18d5dae14116b93751df729f ""
   "C:/Users/Zafa/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1698239302 24141606 69f531501dd5cbce3eae406a92b7cf9f ""
   "C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ec.enc" 1525740614 2457 aaabbccba4df2a7f7371410ee4e075a3 ""
@@ -124,16 +124,16 @@
   "C:/Users/Zafa/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1686255640 7392 ed69c044ab18d5539723c1c7b8c2ee88 ""
   "C:/Users/Zafa/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Zafa/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "Cover/Header.tex" 1714582634 933 03426698b5163d1027ef2cee9d42adf5 ""
-  "Cover/img/footer.png" 1714582634 28618 66808c84f12f49ce70f8339a56e26dcb ""
-  "Cover/img/logodepart.png" 1714582634 37002 e4a53892fe3eef46b801a8ae6ad8641f ""
-  "P1/Wireless.tex" 1714582634 1261 b32a25903e7db4c067e299b3e85b70e7 ""
-  "P1/img/contoh.png" 1714582634 34277 487c256f21b067a4261badd7f298a536 ""
-  "d:/TUGAS/clone_GitHub/laporan-jarkom/main.tex" 1714582787 2379 a2aeafed017d5bedd0bc9d945c239073 ""
-  "main.aux" 1714582792 2052 591fb2e61ad6089a62ffd49792b768d5 "pdflatex"
-  "main.bbl" 1714582674 0 d41d8cd98f00b204e9800998ecf8427e "biber main"
-  "main.out" 1714582792 1107 4c6e8a27ff42add84209d3cd2996789f "pdflatex"
-  "main.run.xml" 1714582792 2290 d459b7c5f3521d0da9efe57afab3d05a "pdflatex"
+  "Cover/Header.tex" 1714583392 933 03426698b5163d1027ef2cee9d42adf5 ""
+  "Cover/img/footer.png" 1714583392 28618 66808c84f12f49ce70f8339a56e26dcb ""
+  "Cover/img/logodepart.png" 1714583392 37002 e4a53892fe3eef46b801a8ae6ad8641f ""
+  "P1/Wireless.tex" 1714583392 1261 b32a25903e7db4c067e299b3e85b70e7 ""
+  "P1/img/contoh.png" 1714583392 34277 487c256f21b067a4261badd7f298a536 ""
+  "d:/TUGAS/SEM4/JARKOM/PRAKTIKUM-JARKOM/Laporan_Jarkom/laporan-jarkom/main.tex" 1714583445 2342 7fd2957b526ca3f27a86151a8a79c5e2 ""
+  "main.aux" 1714583466 2052 591fb2e61ad6089a62ffd49792b768d5 "pdflatex"
+  "main.bbl" 1714583462 0 d41d8cd98f00b204e9800998ecf8427e "biber main"
+  "main.out" 1714583466 1107 4c6e8a27ff42add84209d3cd2996789f "pdflatex"
+  "main.run.xml" 1714583466 2290 d459b7c5f3521d0da9efe57afab3d05a "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"
