@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.10.25)  2 MAY 2024 00:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.10.25)  2 MAY 2024 00:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -226,6 +226,8 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (C:\Users\Zafa\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 ) (C:\Users\Zafa\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 ) (C:\Users\Zafa\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
@@ -624,30 +626,30 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count434
 \@quotereset=\count435
-LaTeX Font Info:    Trying to load font information for T1+qhv on input line 70.
+LaTeX Font Info:    Trying to load font information for T1+qhv on input line 71.
 (C:\Users\Zafa\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
 \c@lstlisting=\count436
  (C:\Users\Zafa\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -678,7 +680,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 70.
+Package hyperref Info: Link coloring ON on input line 71.
  (main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
@@ -722,7 +724,7 @@ Package biblatex Info: Trying to load language 'bahasa'...
 Package biblatex Info: ... file 'bahasa.lbx' not found.
 
 Package biblatex Warning: Language 'bahasa' not supported.
-(biblatex)                Using dummy definitions on input line 70.
+(biblatex)                Using dummy definitions on input line 71.
 
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
@@ -732,14 +734,14 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
 (main.bbl)
-Package biblatex Info: Reference section=0 on input line 70.
-Package biblatex Info: Reference segment=0 on input line 70.
+Package biblatex Info: Reference section=0 on input line 71.
+Package biblatex Info: Reference segment=0 on input line 71.
  (Cover/Header.tex
 File: Cover/img/logodepart.png Graphic file (type png)
 <use Cover/img/logodepart.png>
 Package pdftex.def Info: Cover/img/logodepart.png  used on input line 12.
 (pdftex.def)             Requested size: 85.35826pt x 85.3363pt.
-<Cover/img/footer.png, id=49, 904.88063pt x 89.58469pt>
+<Cover/img/footer.png, id=37, 904.88063pt x 89.58469pt>
 File: Cover/img/footer.png Graphic file (type png)
 <use Cover/img/footer.png>
 Package pdftex.def Info: Cover/img/footer.png  used on input line 23.
@@ -748,35 +750,35 @@ Package pdftex.def Info: Cover/img/footer.png  used on input line 23.
 
 
 {C:/Users/Zafa/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ec.enc} <./Cover/img/logodepart.png> <./Cover/img/footer.png>]) (P1/Wireless.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--15
+Underfull \hbox (badness 10000) in paragraph at lines 2--15
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--15
+Underfull \hbox (badness 10000) in paragraph at lines 2--15
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--15
+Underfull \hbox (badness 10000) in paragraph at lines 2--15
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--15
+Underfull \hbox (badness 10000) in paragraph at lines 2--15
 
  []
 
-<P1/img/contoh.png, id=60, 225.84375pt x 225.84375pt>
+<P1/img/contoh.png, id=48, 225.84375pt x 225.84375pt>
 File: P1/img/contoh.png Graphic file (type png)
 <use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 37.
+Package pdftex.def Info: P1/img/contoh.png  used on input line 43.
 (pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.41 \end{enumerate}
+l.47 \end{enumerate}
                      [1
 
 ]) [2 <./P1/img/contoh.png>] (main.aux)
@@ -785,23 +787,23 @@ LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 9E1B4A9BC101D88217C4BB49B640ED56;1387.
+(rerunfilecheck)             Checksum: A8A97F06093EBFAF15C97A55E4025374;992.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21136 strings out of 475247
- 366239 string characters out of 5758263
- 1926801 words of memory out of 5000000
- 42389 multiletter control sequences out of 15000+600000
+ 21147 strings out of 475247
+ 366739 string characters out of 5758263
+ 1928801 words of memory out of 5000000
+ 42401 multiletter control sequences out of 15000+600000
  604084 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,13n,81p,1217b,586s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvb.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvbi.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvr.pfb>
-Output written on main.pdf (3 pages, 168071 bytes).
+Output written on main.pdf (3 pages, 167968 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
- 104 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 84 PDF objects out of 1000 (max. 8388607)
+ 13 named destinations out of 1000 (max. 500000)
+ 80 words of extra memory for PDF output out of 10000 (max. 10000000)
 
