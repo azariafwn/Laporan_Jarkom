@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.10.25)  2 MAY 2024 00:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.10.25)  2 MAY 2024 01:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -741,7 +741,7 @@ File: Cover/img/logodepart.png Graphic file (type png)
 <use Cover/img/logodepart.png>
 Package pdftex.def Info: Cover/img/logodepart.png  used on input line 12.
 (pdftex.def)             Requested size: 85.35826pt x 85.3363pt.
-<Cover/img/footer.png, id=37, 904.88063pt x 89.58469pt>
+<Cover/img/footer.png, id=45, 904.88063pt x 89.58469pt>
 File: Cover/img/footer.png Graphic file (type png)
 <use Cover/img/footer.png>
 Package pdftex.def Info: Cover/img/footer.png  used on input line 23.
@@ -769,41 +769,182 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--15
 
  []
 
-<P1/img/contoh.png, id=48, 225.84375pt x 225.84375pt>
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 43.
-(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--37
+
+ []
+
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.47 \end{enumerate}
-                     [1
+l.41 \end{center}
+                  [1
 
-]) [2 <./P1/img/contoh.png>] (main.aux)
+]
+<P1/img/contoh.png, id=60, 225.84375pt x 225.84375pt>
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 49.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 58.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 68.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+ [2 <./P1/img/contoh.png>]
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 80.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 97.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+ [3]
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 108.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 119.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+ [4]
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 136.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 145.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+ [5]
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 168.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 178.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+ [6]
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 197.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 209.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+ [7]
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 226.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 235.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+ [8]
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 257.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 267.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+ [9]
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 279.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 289.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+ [10]
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 299.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 311.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+ [11]
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 329.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 339.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+ [12]
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 349.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 359.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+ [13]
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 369.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 381.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+ [14]
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 398.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 407.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+ [15]
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 416.
+(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
+) [16] [17] (main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A8A97F06093EBFAF15C97A55E4025374;992.
+(rerunfilecheck)             Checksum: DBEFFD1B9BBA844107409BA5DC051BD2;1334.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21147 strings out of 475247
- 366739 string characters out of 5758263
+ 21256 strings out of 475247
+ 368036 string characters out of 5758263
  1928801 words of memory out of 5000000
- 42401 multiletter control sequences out of 15000+600000
+ 42435 multiletter control sequences out of 15000+600000
  604084 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,13n,81p,1217b,586s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,13n,81p,1217b,601s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvb.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvbi.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvr.pfb>
-Output written on main.pdf (3 pages, 167968 bytes).
+Output written on main.pdf (18 pages, 193548 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
- 13 named destinations out of 1000 (max. 500000)
- 80 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 228 PDF objects out of 1000 (max. 8388607)
+ 88 named destinations out of 1000 (max. 500000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
 

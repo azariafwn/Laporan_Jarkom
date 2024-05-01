@@ -33,17 +33,392 @@ menghubungkan 2 router atau 2 node jaringan, Hal ini dilakukan biasanya untuk ko
 jarak jauh yang mengharapkan kecepatan tinggi misal untuk menghubungkan jaringan antar gedung,
 menghubungkan BTS (Base Transceiver Station) to BTS (Base Transceiver Station). Koneksi point
 to point ini akan lebih aman karena maksimal node yang terhubung hanya 2. Untuk konfigurasinya
-seperti berikut ini.
+seperti berikut ini.\\ \\
 
-\centering \textbf{Konfigurasi Router 1}
+%Langkah untuk konfigurasi Router 1
+\begin{center} 
+	\textbf{Konfigurasi Router 1}
+\end{center}
+
 \begin{enumerate}
-	\item Konfigurasi router1 dengan ip address 123.656.78.1/24
+	% poin 1
+	\item Buka aplikasi WinBox pada PC 1 dan lakukan koneksi ke Router 1.
+	\\Neighbors > Refresh > Double click Router yang terdeteksi > Connect
 	\begin{figure}[H]
 		\centering
 		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
-		\caption{Gambar Contoh}
+		\caption{Step 1}
 		\label{fig:gambar1}
 	\end{figure}
+
+	% poin 2
+	\item Berikan IP address pada interface wlan 1 yang dapat dibuat pada tab IP > Addresses.
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 2.1}
+		\label{fig:gambar2}
+	\end{figure}
+
+	% poin 3
+	\item Berikan IP address sesuai dengan cara pengaturan IP address yang benar. Berikan IP address
+	yang berbeda dengan contoh di modul.
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 2.2}
+		\label{fig:gambar3}
+	\end{figure}
+
+	% poin 4
+	\item Atur Router 1 untuk mengaktifkan WLAN pada tab Wireless, pilih wlan1, lalu klik tombol centang.
+	Kemudian atur WLAN pada mode bridge dan isi SSID yang diinginkan. Berikan SSID sekreatif
+	mungkin, yang berbeda dengan contoh di modul.
+	
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 3}
+		\label{fig:gambar4}
+	\end{figure}
+
+\end{enumerate}
+
+%Langkah untuk konfigurasi Router 2
+\begin{center} 
+	\textbf{Konfigurasi Router 2}
+\end{center}
+
+\begin{enumerate}
+	% poin 1
+	\item Buka WinBox dan lakukan koneksi ke Router
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 1}
+		\label{fig:gambar5}
+	\end{figure}
+
+	% poin 2
+	\item Berikan IP address pada interface wlan 1 yang dapat dibuat pada tab IP > Addresses. Berikan
+	IP address sesuai dengan cara pengaturan IP address yang benar. Berikan IP address yang
+	berbeda dengan contoh di modul.
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 2}
+		\label{fig:gambar6}
+	\end{figure}
+
+	% poin 3
+	\item Atur Router 2 untuk mengaktifkan WLAN pada tab Wireless, pilih wlan1, lalu klik tombol centang.
+	Kemudian atur WLAN pada mode station. Kemudian cari sinyal yang sudah dipancarkan oleh
+	Router 1, sesuai dengan nama SSID yang sudah dibuat
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 3}
+		\label{fig:gambar7}
+	\end{figure}
+
+\end{enumerate}
+
+%Langkah untuk Mengecek keberhasilan konfigurasi
+\begin{center} 
+	\textbf{Mengecek keberhasilan konfigurasi}
+\end{center}
+
+\begin{enumerate}
+	% poin 1
+	\item Lakukan test ping dari Router 1 ke Router 2
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 1}
+		\label{fig:gambar8}
+	\end{figure}
+
+	% poin 2
+	\item Lakukan test ping dari Router 2 ke Router 1
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 2}
+		\label{fig:gambar9}
+	\end{figure}
+
+\end{enumerate}
+
+\subsection{Wireless Point to Multipoint}
+Koneksi ini yang paling banyak digunakan, karena kelebihannya yaitu dapat mengkoneksikan multipoint atau banyak node dari satu point atau node sumber, penerapan pada koneksi ini biasanya berupa
+hotspot. Untuk konfigurasinya seperti berikut. Untuk gambar topologi sama dengan PointToPoint,
+hanya saja berbeda di konfigurasi dan mode pada routernya.
+
+%Langkah untuk konfigurasi Router 1
+\begin{center} 
+	\textbf{Konfigurasi Router 1}
+\end{center}
+
+\begin{enumerate}
+	% poin 1
+	\item Berikan IP address sesuai dengan cara pengaturan IP address yang benar. Berikan IP address
+	yang berbeda dengan contoh di modul.	
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 1}
+		\label{fig:gambar10}
+	\end{figure}
+
+	% poin 2
+	\item Atur Router 1 untuk mengaktifkan WLAN pada tab Wireless, pilih wlan1, lalu klik tombol centang. Kemudian atur WLAN pada mode ap bridge dan isi SSID yang diinginkan. Berikan SSID
+	sekreatif mungkin, yang berbeda dengan contoh di modul.
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 2}
+		\label{fig:gambar11}
+	\end{figure}
+
+\end{enumerate}
+
+%Langkah untuk konfigurasi Router 2
+\begin{center} 
+	\textbf{Konfigurasi Router 2}
+\end{center}
+
+\begin{enumerate}
+	% poin 1
+	\item Berikan IP address pada interface wlan 1 yang dapat dibuat pada tab IP > Addresses. Berikan
+	IP address sesuai dengan cara pengaturan IP address yang benar. Berikan IP address yang
+	berbeda dengan contoh di modul.
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 1}
+		\label{fig:gambar12}
+	\end{figure}
+
+	% poin 2
+	\item . Atur Router 2 untuk mengaktifkan WLAN pada tab Wireless, pilih wlan1, lalu klik tombol centang. 
+	Kemudian atur WLAN pada mode station bridge. Kemudian cari sinyal yang sudah dipancarkan
+	oleh Router 1, sesuai dengan nama SSID yang sudah dibuat
+	
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 2}
+		\label{fig:gambar13}
+	\end{figure}
+
+\end{enumerate}
+
+%Langkah untuk Mengecek keberhasilan konfigurasi
+\begin{center} 
+	\textbf{Mengecek keberhasilan konfigurasi}
+\end{center}
+
+\begin{enumerate}
+	% poin 1
+	\item Lakukan test ping dari Router 1 ke Router 2
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 1}
+		\label{fig:gambar14}
+	\end{figure}
+
+	% poin 2
+	\item Lakukan test ping dari Router 2 ke Router 1
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 2}
+		\label{fig:gambar15}
+	\end{figure}
+
+\end{enumerate}
+
+\subsection{Wireless Bridge}
+Untuk wireless bridge ini sangatlah sederhana, koneksi ini sangat jarang ditemui pada implementasi realnya, konfigurasi ini menjadikan seolah-olah koneksi yang terhubung menggunakan switch,
+keunggulan yang saya rasakan yaitu ringannya kinerja router yang menggunakan koneksi ini. Untuk konfigurasinya seperti berikut. Untuk gambar topologi sama dengan Point To Point, hanya saja
+berbeda di konfigurasi dan mode pada routernya.
+
+%Langkah untuk konfigurasi Router 1
+\begin{center} 
+	\textbf{Konfigurasi Router 1}
+\end{center}
+
+\begin{enumerate}
+	% poin 1
+	\item Buka WinBox dan lakukan koneksi ke Router.
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 1}
+		\label{fig:gambar16}
+	\end{figure}
+
+	% poin 2
+	\item Berikan IP address pada interface wlan1 dan ethernet 2 yang dapat dibuat pada tab IP > Addresses. Berikan IP address sesuai dengan cara pengaturan IP address yang benar. Berikan IP
+	address yang berbeda dengan contoh di modul.
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 2}
+		\label{fig:gambar17}
+	\end{figure}
+
+	% poin 3
+	\item Atur Router 1 untuk mengaktifkan WLAN pada tab Wireless, pilih wlan1, lalu klik tombol centang.
+	Kemudian atur WLAN pada mode bridge dan isi SSID yang diinginkan. Berikan SSID sekreatif
+	mungkin, yang berbeda dengan contoh di modul.
+	
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 1}
+		\label{fig:gambar18}
+	\end{figure}
+
+	% poin 4
+	\item Tambahkan bridge pada Router 1 untuk menghubungkan interface wlan1 dan ether 2. Buat
+	bridge pada tab Bridge dan beri nama yang diinginkan.	
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 2}
+		\label{fig:gambar19}
+	\end{figure}
+
+	% poin 5
+	\item Selanjutnya tambahkan port interface yang akan dihubungkan pada tab Ports, dan tambahkan
+	interface wlan1 dan ehter2 pada bridge sesuai yang telah dibuat sebelumnya.
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 1}
+		\label{fig:gambar20}
+	\end{figure}
+
+	% poin 6
+	\item Atur IP pada PC 1 dengan mengubah pengaturan pada setting ethernet. Ubah IP perangkat
+	yang otomatis menjadi manual, pastikan IP PC 1 masih satu jaringan dengan IP lokal yang
+	diinginkan, isi Gateway dengan IP Router yang tersambung dengan PC. Berikan IP address
+	yang berbeda dengan contoh yang ada di modul.
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 2}
+		\label{fig:gambar21}
+	\end{figure}
+
+\end{enumerate}
+
+
+%Langkah untuk konfigurasi Router 2
+\begin{center} 
+	\textbf{Konfigurasi Router 2}
+\end{center}
+
+\begin{enumerate}
+	% poin 1
+	\item Buka WinBox dan lakukan koneksi ke Router
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 1}
+		\label{fig:gambar22}
+	\end{figure}
+
+	% poin 2
+	\item Berikan IP address pada interface wlan1 dan ethernet 2 yang dapat dibuat pada tab IP > Addresses. Berikan IP address sesuai dengan cara pengaturan IP address yang benar. Berikan IP
+	address yang berbeda dengan contoh di modul.
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 2}
+		\label{fig:gambar23}
+	\end{figure}
+
+	% poin 3
+	\item Atur Router 2 untuk mengaktifkan WLAN pada tab Wireless, pilih wlan1, lalu klik tombol centang. Kemudian atur WLAN pada mode station pseudobridge. Kemudian cari sinyal yang sudah
+	dipancarkan oleh Router 1, sesuai dengan nama SSID yang sudah dibuat.
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 1}
+		\label{fig:gambar24}
+	\end{figure}
+
+	% poin 4
+	\item Tambahkan bridge pada Router 2 untuk menghubungkan interface wlan1 dan ether 2. Buat
+	bridge pada tab Bridge dan beri nama yang diinginkan.
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 2}
+		\label{fig:gambar25}
+	\end{figure}
+
+	% poin 5
+	\item Selanjutnya tambahkan port interface yang akan dihubungkan pada tab Ports, dan tambahkan
+	interface wlan1 dan ehter2 pada bridge sesuai yang telah dibuat sebelumnya.
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 1}
+		\label{fig:gambar26}
+	\end{figure}
+
+	% poin 6
+	\item Atur IP pada PC 2 dengan mengubah pengaturan pada setting ethernet. Ubah IP perangkat
+	yang otomatis menjadi manual, pastikan IP PC 2 masih satu jaringan dengan IP lokal yang
+	diinginkan, isi Gateway dengan IP Router yang tersambung dengan PC. Berikan IP address
+	yang berbeda dengan contoh yang ada di modul.
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 2}
+		\label{fig:gambar27}
+	\end{figure}
+
+\end{enumerate}
+
+%Langkah untuk Mengecek keberhasilan konfigurasi
+\begin{center} 
+	\textbf{Mengecek keberhasilan konfigurasi}
+\end{center}
+
+\begin{enumerate}
+	% poin 1
+	\item Lakukan test ping dari PC 1 ke PC 2
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 1}
+		\label{fig:gambar28}
+	\end{figure}
+
+	% poin 2
+	\item Lakukan test ping dari PC 2 ke PC 1
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 2}
+		\label{fig:gambar29}
+	\end{figure}
+
+	% poin 3
+	\item Jika ping antar PC tidak berhasil, coba ulang setelah mematikan Firewall Public PC anda.
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.5\linewidth]{P1/img/contoh.png}
+		\caption{Step 1}
+		\label{fig:gambar30}
+	\end{figure}
+
+
 \end{enumerate}
 
 
