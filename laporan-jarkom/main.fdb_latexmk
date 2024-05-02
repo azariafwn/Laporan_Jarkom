@@ -1,11 +1,11 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1714657409 -1
-  "main.bcf" 1714657408 106702 c266856593a44b0bb4ae50b30663bde7 "pdflatex"
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1714657475 -1
+  "main.bcf" 1714657474 106702 c266856593a44b0bb4ae50b30663bde7 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1714657404 "d:/TUGAS/SEM4/JARKOM/PRAKTIKUM-JARKOM/Laporan_Jarkom/laporan-jarkom/main.tex" "main.pdf" "main" 1714657409 0
+["pdflatex"] 1714657470 "d:/TUGAS/SEM4/JARKOM/PRAKTIKUM-JARKOM/Laporan_Jarkom/laporan-jarkom/main.tex" "main.pdf" "main" 1714657475 0
   "C:/Users/Zafa/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1714577690 121421 986c656c18d5dae14116b93751df729f ""
   "C:/Users/Zafa/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1698239302 24141606 69f531501dd5cbce3eae406a92b7cf9f ""
   "C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ec.enc" 1525740614 2457 aaabbccba4df2a7f7371410ee4e075a3 ""
@@ -132,7 +132,7 @@
   "Cover/Header.tex" 1714584901 933 03426698b5163d1027ef2cee9d42adf5 ""
   "Cover/img/footer.png" 1714584901 28618 66808c84f12f49ce70f8339a56e26dcb ""
   "Cover/img/logodepart.png" 1714584901 37002 e4a53892fe3eef46b801a8ae6ad8641f ""
-  "P1/Wireless.tex" 1714657390 18606 25c184d4e9016979d0c07b3cc95573e1 ""
+  "P1/Wireless.tex" 1714657469 18604 85dd6e8e02056d691196fa27e080c2ac ""
   "P1/img/cedfollow.jpg" 1714644131 111427 6339fbacd66c3031ec71ac729d1947a3 ""
   "P1/img/contoh.png" 1714584901 34277 487c256f21b067a4261badd7f298a536 ""
   "P1/img/larasfollow.jpg" 1714646753 44177 a8c5f2415e07b81794af8ec87fd8e4d6 ""
@@ -142,10 +142,10 @@
   "P1/img/vanfollow.jpg" 1714638933 109338 6c91f89fd967e1a5ab696d99e0447b1f ""
   "P1/img/zafafollow.jpg" 1714646309 98696 2ace8bed48fa6d1786d2ad50a15ea966 ""
   "d:/TUGAS/SEM4/JARKOM/PRAKTIKUM-JARKOM/Laporan_Jarkom/laporan-jarkom/main.tex" 1714646143 2393 3b36ef341776edbcc484a202ae3dbf17 ""
-  "main.aux" 1714657408 9477 0dadafb32b71b868ec5844dd99503610 "pdflatex"
+  "main.aux" 1714657474 9477 0dadafb32b71b868ec5844dd99503610 "pdflatex"
   "main.bbl" 1714645389 0 d41d8cd98f00b204e9800998ecf8427e "biber main"
-  "main.out" 1714657408 1674 e835e3c73add2301118ea9782633dcfe "pdflatex"
-  "main.run.xml" 1714657408 2290 d459b7c5f3521d0da9efe57afab3d05a "pdflatex"
+  "main.out" 1714657474 1674 e835e3c73add2301118ea9782633dcfe "pdflatex"
+  "main.run.xml" 1714657474 2290 d459b7c5f3521d0da9efe57afab3d05a "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"
