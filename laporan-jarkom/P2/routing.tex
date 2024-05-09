@@ -294,81 +294,82 @@ simpulkan
 		\item Topologi jaringan percobaan 1
 		\begin{figure}[H]
 		\centering
-		\includegraphics[width=0.7\linewidth]{P1/img/topologi1.jpg}
+		\includegraphics[width=0.75\linewidth]{P2/img/topologi1.jpg}
 		\caption{Topologi Jaringan Percobaan 1}
 		\label{fig:gambar31}
-	\end{figure}
-
-
-	\end{itemize}
-	\begin{itemize}
+		\end{figure}
+	
 		\item Topologi jaringan percobaan 2
 		\begin{figure}[H]
 			\centering
-			\includegraphics[width=0.7\linewidth]{P1/img/topologi2.png}
+			\includegraphics[width=0.75\linewidth]{P2/img/topologi2.jpg}
 			\caption{Topologi Jaringan Percobaan 2}
 			\label{fig:gambar32}
 		\end{figure}
 	\end{itemize}
+	
 
-	\item Perbedaan Point-to-Point, Point-to-Multipoint, dan Wireless Bridging
+	\item Perbedaan Static Routing dan Dynamic Routing.
+	\\ Perbedaan utama antara routing statis (static routing) dan routing dinamis (dynamic routing) adalah cara mereka mengatur jalur data dalam jaringan komputer
 	\begin{itemize}
-		\item Point-to-Point
+		\item Static Routing
 		\begin{itemize}
-			\item Point to point adalah metode pendistribusian akses internet yang hanya melibatkan 2 site saja.
-			\item Hanya terdapat 1 radio station yang terkoneksi ke access point.
-			\item Topologi PTP umumnya dipakai oleh ISP untuk mendistribusikan akses internet dari POP. 
-			\item Kelebihan PTP adalah jaringan lebih stabil karena access point hanya akan memancarkan signalnya ke satu station saja, sehingga throughput yang dihasilkan akan maksimal. 
-			\item Antena yang dipakai biasanya antena yang memiliki sudut pancaran 45-180 derajat (antena sectoral) atau 360 derajat (antena omni).
+			\item Proses setting router jaringan menggunakan tabel routing yang dikonfigurasikan secara manual oleh administrator jaringan.
+			\item Administrator harus memasukkan atau menghapus rute statis jika terjadi perubahan topologi jaringan.
 		\end{itemize}
 
-		\item Point-to-Multipoint
+		\item Dynamic Routing
 		\begin{itemize}
-			\item Menghubungkan satu access point ke beberapa station sekaligus
-			\item PTMP biasanya dipakai untuk menekan biaya, karena hanya dengan satu radio access point saja sudah bisa mengkoneksikan beberapa radio station sekaligus. 
-			\item Antena yang dipakai biasanya antena yang memiliki sudut pancaran 45-180 derajat (antena sectoral).
+			\item Mampu membuat tabel routing secara otomatis berdasarkan lalu lintas jaringan dan router yang terhubung.
+			\item Routing dinamis menggunakan protokol routing yang akan mengatur router secara otomatis untuk saling berkomunikasi dengan memberikan informasi tentang jaringan dan koneksi antar router.
 		\end{itemize}
 
-		\item Wireless Bridging
-		\begin{itemize}
-			\item teknologi yang menghubungkan dua jaringan wireless yang berbeda, sehingga memungkinkan perangkat yang terhubung ke salah satu jaringan untuk dapat mengakses jaringan lainnya tanpa menggunakan kabel
-			\item Wireless bridging dapat menghubungkan lebih dari 200 perangkat nirkabel secara bersamaan. 
-			\item Fungsi Bridge juga mampu memindahkan data melalui intermediate network dengan tipe protokol sama sekali berbeda. 
-			\item Bridge nirkabel memiliki fungsi yang lebih rumit dan berat ketimbang dua jenis Bridge yang sebelumnya.
-		\end{itemize}
 		
 	\end{itemize}
 
-	\item Follow IG Lab MIOT
-	\begin{figure}[H]
-		\centering
-		\begin{subfigure}{0.3\linewidth}
-			\centering
-			\includegraphics[width=\linewidth]{P1/img/vanfollow.jpg}
-			\caption{Bukti Vania follow}
-			\label{fig:gambar34}
-		\end{subfigure}
-		\begin{subfigure}{0.3\linewidth}
-			\centering
-			\includegraphics[width=\linewidth]{P1/img/cedfollow.jpg}
-			\caption{Bukti Cedric follow}
-			\label{fig:gambar35}
-		\end{subfigure}
-		\begin{subfigure}{0.3\linewidth}
-			\centering
-			\includegraphics[width=\linewidth]{P1/img/zafafollow.jpg}
-			\caption{Bukti Azaria follow}
-			\label{fig:gambar36}
-		\end{subfigure}
-		\begin{subfigure}{0.8\linewidth}
-			\centering
-			\includegraphics[width=\linewidth]{P1/img/larasfollow.jpg}
-			\caption{Bukti Laras follow}
-			\label{fig:gambar37}
-		\end{subfigure}
-		\caption{Bukti follow IG Lab MIOT}
-		\label{fig:dua_gambar}
-	\end{figure}
+	\item Keuntungan dan kekurangan Static Routing dan Dynamic Routing
+	\begin{enumerate}
+		\item Static Routing
+		\begin{itemize}
+			\item Kelebihan :
+			\begin{itemize}
+				\item[\ding{58}] Mengurangi kinerja CPU router karena pemrosesan didistribusikan ke setiap router.
+				\item[\ding{58}] Penghematan bandwidth karena tidak ada bandwidth yang terbuang saat bertukar paket.
+				\item[\ding{58}] Dapatkan informasi dari isi tabel routing selama pertukaran paket.
+				\item[\ding{58}] Routing statis lebih aman.
+				\item[\ding{58}] Administrator bebas menentukan jalur jaringan.
+			\end{itemize}
+
+			\item Kekurangan :
+			\begin{itemize}
+				\item[\ding{56}] Administrator jaringan harus mengetahui semua informasi tentang router yang terhubung.
+				\item[\ding{56}] Jaringan kecil saja.
+				\item[\ding{56}] Konfigurasi lebih rumit terutama jika beberapa komputer terhubung.
+				\item[\ding{56}] Memerlukan waktu setup yang lebih lama.
+				\item[\ding{56}] Jika jalur terputus, jaringan berhenti.
+			\end{itemize}
+		\end{itemize}
+
+		\item Dynamic Routing
+		\begin{itemize}
+			\item Kelebihan :
+			\begin{itemize}
+				\item[\ding{58}] Cocok untuk jaringan dengan jangkauan yang lebih luas.
+				\item[\ding{58}] Konfigurasi jaringan lebih cepat.
+				\item[\ding{58}] Jalur ditentukan secara otomatis oleh sistem.
+				\item[\ding{58}] Melindungi kamu jika terjadi kegagalan jaringan.
+				\item[\ding{58}] Ketika jaringan baru ditambahkan, tidak perlu mengkonfigurasi semua router. Hanya router yang terhubung.
+			\end{itemize}
+
+			\item Kekurangan :
+			\begin{itemize}
+				\item[\ding{56}] Beban kerja router lebih berat karena selalu mengupdate tabel IP.
+				\item[\ding{56}] Membutuhkan lebih banyak bandwidth.
+				\item[\ding{56}] Lebih banyak RAM diperlukan untuk menentukan jalur terbaik jika terjadi kegagalan.
+			\end{itemize}
+		\end{itemize}
+
+	\end{enumerate}
 	
 \end{enumerate}
 \subsection{Dokumentasi saat Praktikum}

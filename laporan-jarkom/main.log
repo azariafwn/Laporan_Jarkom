@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.10.25)  9 MAY 2024 18:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.10.25)  9 MAY 2024 19:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -234,7 +234,16 @@ Package caption Info: New subtype `subfigure' on input line 238.
 \c@subfigure=\count288
 Package caption Info: New subtype `subtable' on input line 238.
 \c@subtable=\count289
-) (C:\Users\Zafa\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+) (C:\Users\Zafa\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\pifont.sty
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+ (C:\Users\Zafa\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+ (C:\Users\Zafa\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+)) (C:\Users\Zafa\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 ) (C:\Users\Zafa\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
@@ -632,7 +641,7 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count436
 \@quotereset=\count437
-LaTeX Font Info:    Trying to load font information for T1+qhv on input line 72.
+LaTeX Font Info:    Trying to load font information for T1+qhv on input line 73.
 (C:\Users\Zafa\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 ) (main.aux
@@ -651,24 +660,24 @@ LaTeX Warning: Label `fig:gambar13' multiply defined.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
 \c@lstlisting=\count438
  (C:\Users\Zafa\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -699,7 +708,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 72.
+Package hyperref Info: Link coloring ON on input line 73.
  (main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
@@ -743,7 +752,7 @@ Package biblatex Info: Trying to load language 'bahasa'...
 Package biblatex Info: ... file 'bahasa.lbx' not found.
 
 Package biblatex Warning: Language 'bahasa' not supported.
-(biblatex)                Using dummy definitions on input line 72.
+(biblatex)                Using dummy definitions on input line 73.
 
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
@@ -753,8 +762,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
 (main.bbl)
-Package biblatex Info: Reference section=0 on input line 72.
-Package biblatex Info: Reference segment=0 on input line 72.
+Package biblatex Info: Reference section=0 on input line 73.
+Package biblatex Info: Reference segment=0 on input line 73.
  (Cover/Header.tex
 File: Cover/img/logodepart.png Graphic file (type png)
 <use Cover/img/logodepart.png>
@@ -882,39 +891,18 @@ LaTeX Font Info:    Trying to load font information for TS1+qhv on input line 29
  (C:\Users\Zafa\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\ts1qhv.fd
 File: ts1qhv.fd 2009/09/25 v1.2 font definition file for TS1/qhv
 )
-<P1/img/topologi1.jpg, id=143, 499.8675pt x 287.57437pt>
-File: P1/img/topologi1.jpg Graphic file (type jpg)
-<use P1/img/topologi1.jpg>
-Package pdftex.def Info: P1/img/topologi1.jpg  used on input line 297.
-(pdftex.def)             Requested size: 338.58632pt x 194.79762pt.
+<P2/img/topologi1.jpg, id=143, 385.44pt x 364.36125pt>
+File: P2/img/topologi1.jpg Graphic file (type jpg)
+<use P2/img/topologi1.jpg>
+Package pdftex.def Info: P2/img/topologi1.jpg  used on input line 297.
+(pdftex.def)             Requested size: 362.77264pt x 342.93327pt.
  [11{C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
-<P1/img/topologi2.png, id=151, 700.86844pt x 356.83313pt>
-File: P1/img/topologi2.png Graphic file (type png)
-<use P1/img/topologi2.png>
-Package pdftex.def Info: P1/img/topologi2.png  used on input line 308.
-(pdftex.def)             Requested size: 338.58632pt x 172.38869pt.
- [12 <./P1/img/topologi1.jpg> <./P1/img/topologi2.png>]
-<P1/img/vanfollow.jpg, id=161, 740.7675pt x 1606.0pt>
-File: P1/img/vanfollow.jpg Graphic file (type jpg)
-<use P1/img/vanfollow.jpg>
-Package pdftex.def Info: P1/img/vanfollow.jpg  used on input line 347.
-(pdftex.def)             Requested size: 145.11053pt x 314.60233pt.
-<P1/img/cedfollow.jpg, id=162, 740.7675pt x 1606.0pt>
-File: P1/img/cedfollow.jpg Graphic file (type jpg)
-<use P1/img/cedfollow.jpg>
-Package pdftex.def Info: P1/img/cedfollow.jpg  used on input line 353.
-(pdftex.def)             Requested size: 145.11053pt x 314.60233pt.
-<P1/img/zafafollow.jpg, id=163, 761.84625pt x 1606.0pt>
-File: P1/img/zafafollow.jpg Graphic file (type jpg)
-<use P1/img/zafafollow.jpg>
-Package pdftex.def Info: P1/img/zafafollow.jpg  used on input line 359.
-(pdftex.def)             Requested size: 145.11053pt x 305.87834pt.
-<P1/img/larasfollow.jpg, id=164, 639.13782pt x 239.39438pt>
-File: P1/img/larasfollow.jpg Graphic file (type jpg)
-<use P1/img/larasfollow.jpg>
-Package pdftex.def Info: P1/img/larasfollow.jpg  used on input line 365.
-(pdftex.def)             Requested size: 386.95897pt x 144.93814pt.
- [13]) [14 <./P1/img/vanfollow.jpg> <./P1/img/cedfollow.jpg> <./P1/img/zafafollow.jpg> <./P1/img/larasfollow.jpg>] (main.aux)
+<P2/img/topologi2.jpg, id=151, 435.12563pt x 288.3272pt>
+File: P2/img/topologi2.jpg Graphic file (type jpg)
+<use P2/img/topologi2.jpg>
+Package pdftex.def Info: P2/img/topologi2.jpg  used on input line 305.
+(pdftex.def)             Requested size: 362.77264pt x 240.39818pt.
+ [12 <./P2/img/topologi1.jpg> <./P2/img/topologi2.jpg>]) [13] [14] (main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
@@ -930,17 +918,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21426 strings out of 475247
- 371693 string characters out of 5758263
- 1927801 words of memory out of 5000000
- 42614 multiletter control sequences out of 15000+600000
- 610372 words of font info for 66 fonts, out of 8000000 for 9000
+ 21438 strings out of 475247
+ 371730 string characters out of 5758263
+ 1931801 words of memory out of 5000000
+ 42613 multiletter control sequences out of 15000+600000
+ 605140 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,13n,81p,1217b,765s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvb.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvbi.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvr.pfb>
-Output written on main.pdf (15 pages, 600004 bytes).
+ 75i,13n,81p,1217b,754s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvb.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvbi.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvr.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on main.pdf (15 pages, 249667 bytes).
 PDF statistics:
- 216 PDF objects out of 1000 (max. 8388607)
- 73 named destinations out of 1000 (max. 500000)
- 134 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 217 PDF objects out of 1000 (max. 8388607)
+ 74 named destinations out of 1000 (max. 500000)
+ 114 words of extra memory for PDF output out of 10000 (max. 10000000)
 
