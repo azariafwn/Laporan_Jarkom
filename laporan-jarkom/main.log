@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.10.25)  9 MAY 2024 19:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.10.25)  16 MAY 2024 00:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -657,6 +657,9 @@ LaTeX Warning: Label `fig:gambar13' multiply defined.
 
 LaTeX Warning: Label `fig:gambar13' multiply defined.
 
+
+LaTeX Warning: Label `fig:gambar32' multiply defined.
+
 )
 \openout1 = `main.aux'.
 
@@ -805,104 +808,116 @@ l.39 \end{enumerate}
                      [1
 
 ]
-<P1/img/contoh.png, id=65, 225.84375pt x 225.84375pt>
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 52.
-(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 62.
-(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 71.
-(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
- [2 <./P1/img/contoh.png>]
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 81.
-(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 102.
-(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
- [3]
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 112.
-(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 129.
-(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
- [4]
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 138.
-(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
- [5]
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 170.
-(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 179.
-(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
- [6]
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 188.
-(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 198.
-(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
- [7]
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 207.
-(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 228.
-(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
- [8]
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 238.
-(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 247.
-(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
- [9]
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 264.
-(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 273.
-(pdftex.def)             Requested size: 241.84843pt x 241.86406pt.
- [10]
+<P2/img/statis_R1step1.jpg, id=65, 566.86781pt x 411.78844pt>
+File: P2/img/statis_R1step1.jpg Graphic file (type jpg)
+<use P2/img/statis_R1step1.jpg>
+Package pdftex.def Info: P2/img/statis_R1step1.jpg  used on input line 52.
+(pdftex.def)             Requested size: 241.84843pt x 175.68323pt.
+File: P2/img/statis_R1step1.jpg Graphic file (type jpg)
+<use P2/img/statis_R1step1.jpg>
+Package pdftex.def Info: P2/img/statis_R1step1.jpg  used on input line 62.
+(pdftex.def)             Requested size: 241.84843pt x 175.68323pt.
+<P2/img/statis_R1step3.jpg, id=66, 642.14906pt x 336.50719pt>
+File: P2/img/statis_R1step3.jpg Graphic file (type jpg)
+<use P2/img/statis_R1step3.jpg>
+Package pdftex.def Info: P2/img/statis_R1step3.jpg  used on input line 71.
+(pdftex.def)             Requested size: 241.84843pt x 126.73415pt.
+ [2 <./P2/img/statis_R1step1.jpg>]
+<P2/img/statis_R1step3.2.jpg, id=77, 941.76843pt x 509.65407pt>
+File: P2/img/statis_R1step3.2.jpg Graphic file (type jpg)
+<use P2/img/statis_R1step3.2.jpg>
+Package pdftex.def Info: P2/img/statis_R1step3.2.jpg  used on input line 81.
+(pdftex.def)             Requested size: 241.84843pt x 130.87383pt.
+File: P2/img/statis_R1step1.jpg Graphic file (type jpg)
+<use P2/img/statis_R1step1.jpg>
+Package pdftex.def Info: P2/img/statis_R1step1.jpg  used on input line 102.
+(pdftex.def)             Requested size: 241.84843pt x 175.68323pt.
+File: P2/img/statis_R1step3.jpg Graphic file (type jpg)
+<use P2/img/statis_R1step3.jpg>
+Package pdftex.def Info: P2/img/statis_R1step3.jpg  used on input line 112.
+(pdftex.def)             Requested size: 241.84843pt x 126.73415pt.
+ [3 <./P2/img/statis_R1step3.jpg> <./P2/img/statis_R1step3.2.jpg>]
+<P2/img/statis_ping.jpg, id=88, 922.94812pt x 650.43pt>
+File: P2/img/statis_ping.jpg Graphic file (type jpg)
+<use P2/img/statis_ping.jpg>
+Package pdftex.def Info: P2/img/statis_ping.jpg  used on input line 129.
+(pdftex.def)             Requested size: 241.84843pt x 170.43773pt.
+File: P2/img/statis_ping.jpg Graphic file (type jpg)
+<use P2/img/statis_ping.jpg>
+Package pdftex.def Info: P2/img/statis_ping.jpg  used on input line 138.
+(pdftex.def)             Requested size: 241.84843pt x 170.43773pt.
+ [4 <./P2/img/statis_ping.jpg>]
+<P2/img/dinamis_R1step2.jpg, id=98, 963.6pt x 392.21532pt>
+File: P2/img/dinamis_R1step2.jpg Graphic file (type jpg)
+<use P2/img/dinamis_R1step2.jpg>
+Package pdftex.def Info: P2/img/dinamis_R1step2.jpg  used on input line 170.
+(pdftex.def)             Requested size: 241.84843pt x 98.4366pt.
+<P2/img/dinamis_R1step3.1.jpg, id=99, 963.6pt x 483.30562pt>
+File: P2/img/dinamis_R1step3.1.jpg Graphic file (type jpg)
+<use P2/img/dinamis_R1step3.1.jpg>
+Package pdftex.def Info: P2/img/dinamis_R1step3.1.jpg  used on input line 179.
+(pdftex.def)             Requested size: 241.84843pt x 121.29808pt.
+File: P2/img/dinamis_R1step3.1.jpg Graphic file (type jpg)
+<use P2/img/dinamis_R1step3.1.jpg>
+Package pdftex.def Info: P2/img/dinamis_R1step3.1.jpg  used on input line 188.
+(pdftex.def)             Requested size: 241.84843pt x 121.29808pt.
+ [5 <./P2/img/dinamis_R1step2.jpg> <./P2/img/dinamis_R1step3.1.jpg>]
+<P2/img/dinamis_R1step3.2.jpg, id=111, 931.98187pt x 529.98pt>
+File: P2/img/dinamis_R1step3.2.jpg Graphic file (type jpg)
+<use P2/img/dinamis_R1step3.2.jpg>
+Package pdftex.def Info: P2/img/dinamis_R1step3.2.jpg  used on input line 198.
+(pdftex.def)             Requested size: 241.84843pt x 137.52467pt.
+File: P2/img/dinamis_R1step3.2.jpg Graphic file (type jpg)
+<use P2/img/dinamis_R1step3.2.jpg>
+Package pdftex.def Info: P2/img/dinamis_R1step3.2.jpg  used on input line 207.
+(pdftex.def)             Requested size: 241.84843pt x 137.52467pt.
+<P2/img/dinamis_R2step2.jpg, id=112, 963.6pt x 602.25pt>
+File: P2/img/dinamis_R2step2.jpg Graphic file (type jpg)
+<use P2/img/dinamis_R2step2.jpg>
+Package pdftex.def Info: P2/img/dinamis_R2step2.jpg  used on input line 228.
+(pdftex.def)             Requested size: 241.84843pt x 151.15025pt.
+ [6 <./P2/img/dinamis_R1step3.2.jpg>]
+<P2/img/dinamis_R2step3.2.jpg, id=125, 963.6pt x 602.25pt>
+File: P2/img/dinamis_R2step3.2.jpg Graphic file (type jpg)
+<use P2/img/dinamis_R2step3.2.jpg>
+Package pdftex.def Info: P2/img/dinamis_R2step3.2.jpg  used on input line 238.
+(pdftex.def)             Requested size: 241.84843pt x 151.15025pt.
+<P2/img/dinamis_R2step4.jpg, id=126, 963.6pt x 602.25pt>
+File: P2/img/dinamis_R2step4.jpg Graphic file (type jpg)
+<use P2/img/dinamis_R2step4.jpg>
+Package pdftex.def Info: P2/img/dinamis_R2step4.jpg  used on input line 247.
+(pdftex.def)             Requested size: 241.84843pt x 151.15025pt.
+File: P2/img/statis_ping.jpg Graphic file (type jpg)
+<use P2/img/statis_ping.jpg>
+Package pdftex.def Info: P2/img/statis_ping.jpg  used on input line 264.
+(pdftex.def)             Requested size: 241.84843pt x 170.43773pt.
+ [7 <./P2/img/dinamis_R2step2.jpg> <./P2/img/dinamis_R2step3.2.jpg> <./P2/img/dinamis_R2step4.jpg>]
+File: P2/img/statis_ping.jpg Graphic file (type jpg)
+<use P2/img/statis_ping.jpg>
+Package pdftex.def Info: P2/img/statis_ping.jpg  used on input line 273.
+(pdftex.def)             Requested size: 241.84843pt x 170.43773pt.
 LaTeX Font Info:    Trying to load font information for TS1+qhv on input line 294.
  (C:\Users\Zafa\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\ts1qhv.fd
 File: ts1qhv.fd 2009/09/25 v1.2 font definition file for TS1/qhv
 )
-<P2/img/topologi1.jpg, id=143, 385.44pt x 364.36125pt>
+<P2/img/topologi1.jpg, id=137, 385.44pt x 364.36125pt>
 File: P2/img/topologi1.jpg Graphic file (type jpg)
 <use P2/img/topologi1.jpg>
 Package pdftex.def Info: P2/img/topologi1.jpg  used on input line 297.
 (pdftex.def)             Requested size: 362.77264pt x 342.93327pt.
- [11{C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
-<P2/img/topologi2.jpg, id=151, 435.12563pt x 288.3272pt>
+ [8{C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
+<P2/img/topologi2.jpg, id=147, 435.12563pt x 288.3272pt>
 File: P2/img/topologi2.jpg Graphic file (type jpg)
 <use P2/img/topologi2.jpg>
 Package pdftex.def Info: P2/img/topologi2.jpg  used on input line 305.
 (pdftex.def)             Requested size: 362.77264pt x 240.39818pt.
- [12 <./P2/img/topologi1.jpg> <./P2/img/topologi2.jpg>]) [13] [14] (main.aux)
+ [9 <./P2/img/topologi1.jpg> <./P2/img/topologi2.jpg>]
+<P2/img/dokum1.jpg, id=155, 4047.12pt x 3035.34pt>
+File: P2/img/dokum1.jpg Graphic file (type jpg)
+<use P2/img/dokum1.jpg>
+Package pdftex.def Info: P2/img/dokum1.jpg  used on input line 379.
+(pdftex.def)             Requested size: 362.77264pt x 272.05724pt.
+) [10] [11 <./P2/img/dokum1.jpg>] (main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
@@ -918,17 +933,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21438 strings out of 475247
- 371730 string characters out of 5758263
- 1931801 words of memory out of 5000000
- 42613 multiletter control sequences out of 15000+600000
+ 21506 strings out of 475247
+ 374033 string characters out of 5758263
+ 1932801 words of memory out of 5000000
+ 42683 multiletter control sequences out of 15000+600000
  605140 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,13n,81p,1217b,754s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvb.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvbi.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvr.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on main.pdf (15 pages, 249667 bytes).
+Output written on main.pdf (12 pages, 2507933 bytes).
 PDF statistics:
- 217 PDF objects out of 1000 (max. 8388607)
- 74 named destinations out of 1000 (max. 500000)
- 114 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 212 PDF objects out of 1000 (max. 8388607)
+ 72 named destinations out of 1000 (max. 500000)
+ 164 words of extra memory for PDF output out of 10000 (max. 10000000)
 

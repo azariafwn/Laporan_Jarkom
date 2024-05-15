@@ -1,11 +1,11 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1715257208 -1
-  "main.bcf" 1715257207 106702 c266856593a44b0bb4ae50b30663bde7 "pdflatex"
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1715792835 -1
+  "main.bcf" 1715792834 106702 c266856593a44b0bb4ae50b30663bde7 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1715257203 "d:/TUGAS/SEM4/JARKOM/PRAKTIKUM-JARKOM/Laporan_Jarkom/laporan-jarkom/main.tex" "main.pdf" "main" 1715257208 0
+["pdflatex"] 1715792831 "d:/TUGAS/SEM4/JARKOM/PRAKTIKUM-JARKOM/Laporan_Jarkom/laporan-jarkom/main.tex" "main.pdf" "main" 1715792835 0
   "C:/Users/Zafa/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1715254212 123019 4e6d54fe28a67ad1b512b0cc9d03c2e8 ""
   "C:/Users/Zafa/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1698239302 24141606 69f531501dd5cbce3eae406a92b7cf9f ""
   "C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ec.enc" 1525740614 2457 aaabbccba4df2a7f7371410ee4e075a3 ""
@@ -138,15 +138,25 @@
   "Cover/Header.tex" 1714584901 933 03426698b5163d1027ef2cee9d42adf5 ""
   "Cover/img/footer.png" 1714584901 28618 66808c84f12f49ce70f8339a56e26dcb ""
   "Cover/img/logodepart.png" 1714584901 37002 e4a53892fe3eef46b801a8ae6ad8641f ""
-  "P1/img/contoh.png" 1714584901 34277 487c256f21b067a4261badd7f298a536 ""
+  "P2/img/dinamis_R1step2.jpg" 1715309657 54369 a2779aaf6622886209eafca70ff9f6df ""
+  "P2/img/dinamis_R1step3.1.jpg" 1715309830 73210 1fd5d249d758cb8489f0c3fb4f873dac ""
+  "P2/img/dinamis_R1step3.2.jpg" 1715309830 102340 676c45d5e0ecb3fb0a1b0d3a6baad96b ""
+  "P2/img/dinamis_R2step2.jpg" 1715791601 139264 3de9cf8e23974af45a205eaf0f1a30b6 ""
+  "P2/img/dinamis_R2step3.2.jpg" 1715791601 100654 a0e9388fc355b7572bd1875ec82d3937 ""
+  "P2/img/dinamis_R2step4.jpg" 1715791601 93442 13a610dbfe759b93df128176b0a2a1db ""
+  "P2/img/dokum1.jpg" 1715335715 1288097 50e3168ddfcf1291b557e0965c462ec9 ""
+  "P2/img/statis_R1step1.jpg" 1715307721 85642 d8bece115c1b4c7f55d1e8802ea343cd ""
+  "P2/img/statis_R1step3.2.jpg" 1715309294 126552 59218db9f03b2ef1a0e02e784aa35985 ""
+  "P2/img/statis_R1step3.jpg" 1715308154 72095 1073c521599e82eb4ac8a958ec8995b6 ""
+  "P2/img/statis_ping.jpg" 1715309346 156549 e54d4b36081a75b0698346f5bc550d67 ""
   "P2/img/topologi1.jpg" 1715247888 29809 30f57d6e44da56db9702cebd63ed1439 ""
   "P2/img/topologi2.jpg" 1715254508 24364 869fefd84480b2fbd1d625da58f24740 ""
-  "P2/routing.tex" 1715257199 13667 f5b11ff4d53d6a5f5bd47201449214db ""
+  "P2/routing.tex" 1715792827 13992 50c66eded449d36d272dc2e01a20bf1a ""
   "d:/TUGAS/SEM4/JARKOM/PRAKTIKUM-JARKOM/Laporan_Jarkom/laporan-jarkom/main.tex" 1715254192 2454 3868f48e18366d0e261afb9c923e6561 ""
-  "main.aux" 1715257207 5966 c7e6903156cdb870c3249a8a5a51d60c "pdflatex"
+  "main.aux" 1715792834 6189 0596bda75883ef0c29063c86a5fb33b1 "pdflatex"
   "main.bbl" 1715234503 0 d41d8cd98f00b204e9800998ecf8427e "biber main"
-  "main.out" 1715257207 1416 337297428d6d396aa17137a40d2f79b3 "pdflatex"
-  "main.run.xml" 1715257207 2290 d459b7c5f3521d0da9efe57afab3d05a "pdflatex"
+  "main.out" 1715792834 1416 337297428d6d396aa17137a40d2f79b3 "pdflatex"
+  "main.run.xml" 1715792834 2290 d459b7c5f3521d0da9efe57afab3d05a "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"
