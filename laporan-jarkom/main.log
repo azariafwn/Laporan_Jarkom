@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.10.25)  28 MAY 2024 14:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.10.25)  7 JUN 2024 10:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -646,49 +646,52 @@ LaTeX Font Info:    Trying to load font information for T1+qhv on input line 73.
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 ) (main.aux
 
-LaTeX Warning: Label `fig:gambar4' multiply defined.
+LaTeX Warning: Label `fig:gambar2' multiply defined.
 
 
-LaTeX Warning: Label `fig:gambar4' multiply defined.
+LaTeX Warning: Label `fig:gambar1' multiply defined.
 
 
-LaTeX Warning: Label `fig:gambar4' multiply defined.
+LaTeX Warning: Label `fig:gambar1' multiply defined.
 
 
-LaTeX Warning: Label `fig:gambar4' multiply defined.
+LaTeX Warning: Label `fig:gambar1' multiply defined.
 
 
-LaTeX Warning: Label `fig:gambar4' multiply defined.
+LaTeX Warning: Label `fig:gambar1' multiply defined.
 
 
-LaTeX Warning: Label `fig:gambar4' multiply defined.
+LaTeX Warning: Label `fig:gambar1' multiply defined.
 
 
-LaTeX Warning: Label `fig:gambar4' multiply defined.
+LaTeX Warning: Label `fig:gambar1' multiply defined.
 
 
-LaTeX Warning: Label `fig:gambar4' multiply defined.
+LaTeX Warning: Label `fig:gambar1' multiply defined.
 
 
-LaTeX Warning: Label `fig:gambar4' multiply defined.
+LaTeX Warning: Label `fig:gambar1' multiply defined.
 
 
-LaTeX Warning: Label `fig:gambar4' multiply defined.
+LaTeX Warning: Label `fig:gambar1' multiply defined.
 
 
-LaTeX Warning: Label `fig:gambar4' multiply defined.
+LaTeX Warning: Label `fig:gambar1' multiply defined.
 
 
-LaTeX Warning: Label `fig:gambar4' multiply defined.
+LaTeX Warning: Label `fig:gambar1' multiply defined.
 
 
-LaTeX Warning: Label `fig:gambar4' multiply defined.
+LaTeX Warning: Label `fig:gambar1' multiply defined.
 
 
-LaTeX Warning: Label `fig:gambar4' multiply defined.
+LaTeX Warning: Label `fig:gambar1' multiply defined.
 
 
-LaTeX Warning: Label `fig:gambar4' multiply defined.
+LaTeX Warning: Label `fig:gambar1' multiply defined.
+
+
+LaTeX Warning: Label `fig:gambar1' multiply defined.
 
 )
 \openout1 = `main.aux'.
@@ -802,7 +805,7 @@ File: Cover/img/logodepart.png Graphic file (type png)
 <use Cover/img/logodepart.png>
 Package pdftex.def Info: Cover/img/logodepart.png  used on input line 12.
 (pdftex.def)             Requested size: 85.35826pt x 85.3363pt.
-<Cover/img/footer.png, id=45, 904.88063pt x 89.58469pt>
+<Cover/img/footer.png, id=41, 904.88063pt x 89.58469pt>
 File: Cover/img/footer.png Graphic file (type png)
 <use Cover/img/footer.png>
 Package pdftex.def Info: Cover/img/footer.png  used on input line 23.
@@ -810,140 +813,122 @@ Package pdftex.def Info: Cover/img/footer.png  used on input line 23.
  [1
 
 
-{C:/Users/Zafa/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ec.enc} <./Cover/img/logodepart.png> <./Cover/img/footer.png>]) (P3/bandwidth.tex
+{C:/Users/Zafa/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ec.enc} <./Cover/img/logodepart.png> <./Cover/img/footer.png>]) (P4/VPN.tex
+<P4/img/step1.jpg, id=52, 759.58781pt x 633.86812pt>
+File: P4/img/step1.jpg Graphic file (type jpg)
+<use P4/img/step1.jpg>
+Package pdftex.def Info: P4/img/step1.jpg  used on input line 50.
+(pdftex.def)             Requested size: 338.58632pt x 282.5492pt.
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.37 	\item S
-             oftware Winbox [1
+l.54 
+      [1
 
 ]
-<P3/img/step1.jpg, id=60, 625.58719pt x 560.8453pt>
-File: P3/img/step1.jpg Graphic file (type jpg)
-<use P3/img/step1.jpg>
-Package pdftex.def Info: P3/img/step1.jpg  used on input line 54.
-(pdftex.def)             Requested size: 241.84843pt x 216.82039pt.
-<P3/img/step2.jpg, id=61, 720.44156pt x 763.35187pt>
-File: P3/img/step2.jpg Graphic file (type jpg)
-<use P3/img/step2.jpg>
-Package pdftex.def Info: P3/img/step2.jpg  used on input line 65.
-(pdftex.def)             Requested size: 241.84843pt x 256.25153pt.
-<P3/img/step2.2.jpg, id=62, 719.68875pt x 765.6103pt>
-File: P3/img/step2.2.jpg Graphic file (type jpg)
-<use P3/img/step2.2.jpg>
-Package pdftex.def Info: P3/img/step2.2.jpg  used on input line 70.
-(pdftex.def)             Requested size: 241.84843pt x 257.27835pt.
- [2 <./P3/img/step1.jpg>]
-<P3/img/step3.jpg, id=70, 719.68875pt x 765.6103pt>
-File: P3/img/step3.jpg Graphic file (type jpg)
-<use P3/img/step3.jpg>
-Package pdftex.def Info: P3/img/step3.jpg  used on input line 80.
-(pdftex.def)             Requested size: 241.84843pt x 257.27835pt.
- [3 <./P3/img/step2.jpg> <./P3/img/step2.2.jpg>]
-<P3/img/step4.jpg, id=77, 717.43031pt x 758.835pt>
-File: P3/img/step4.jpg Graphic file (type jpg)
-<use P3/img/step4.jpg>
-Package pdftex.def Info: P3/img/step4.jpg  used on input line 89.
-(pdftex.def)             Requested size: 241.84843pt x 255.8005pt.
-<P3/img/step5.jpg, id=78, 719.68875pt x 761.09344pt>
-File: P3/img/step5.jpg Graphic file (type jpg)
-<use P3/img/step5.jpg>
-Package pdftex.def Info: P3/img/step5.jpg  used on input line 99.
-(pdftex.def)             Requested size: 241.84843pt x 255.7605pt.
- [4 <./P3/img/step3.jpg> <./P3/img/step4.jpg>]
-<P3/img/step6.jpg, id=87, 718.93594pt x 763.35187pt>
-File: P3/img/step6.jpg Graphic file (type jpg)
-<use P3/img/step6.jpg>
-Package pdftex.def Info: P3/img/step6.jpg  used on input line 108.
-(pdftex.def)             Requested size: 241.84843pt x 256.78732pt.
-<P3/img/step7.jpg, id=88, 720.44156pt x 766.36313pt>
-File: P3/img/step7.jpg Graphic file (type jpg)
-<use P3/img/step7.jpg>
-Package pdftex.def Info: P3/img/step7.jpg  used on input line 118.
-(pdftex.def)             Requested size: 241.84843pt x 257.26237pt.
- [5 <./P3/img/step5.jpg> <./P3/img/step6.jpg>]
-<P3/img/step8.jpg, id=97, 719.68875pt x 763.35187pt>
-File: P3/img/step8.jpg Graphic file (type jpg)
-<use P3/img/step8.jpg>
-Package pdftex.def Info: P3/img/step8.jpg  used on input line 129.
-(pdftex.def)             Requested size: 241.84843pt x 256.51942pt.
-<P3/img/step9.jpg, id=98, 722.7pt x 764.8575pt>
-File: P3/img/step9.jpg Graphic file (type jpg)
-<use P3/img/step9.jpg>
-Package pdftex.def Info: P3/img/step9.jpg  used on input line 138.
-(pdftex.def)             Requested size: 241.84843pt x 255.95166pt.
- [6 <./P3/img/step7.jpg> <./P3/img/step8.jpg>]
-<P3/img/step10.jpg, id=108, 721.19438pt x 764.10469pt>
-File: P3/img/step10.jpg Graphic file (type jpg)
-<use P3/img/step10.jpg>
-Package pdftex.def Info: P3/img/step10.jpg  used on input line 148.
-(pdftex.def)             Requested size: 241.84843pt x 256.23607pt.
-<P3/img/step11.jpg, id=109, 963.6pt x 509.65407pt>
-File: P3/img/step11.jpg Graphic file (type jpg)
-<use P3/img/step11.jpg>
-Package pdftex.def Info: P3/img/step11.jpg  used on input line 157.
-(pdftex.def)             Requested size: 241.84843pt x 127.9109pt.
- [7 <./P3/img/step9.jpg> <./P3/img/step10.jpg>]
-<P3/img/step12.jpg, id=118, 718.18312pt x 764.8575pt>
-File: P3/img/step12.jpg Graphic file (type jpg)
-<use P3/img/step12.jpg>
-Package pdftex.def Info: P3/img/step12.jpg  used on input line 168.
-(pdftex.def)             Requested size: 241.84843pt x 257.56223pt.
-<P3/img/step13.1.jpg, id=119, 721.94719pt x 763.35187pt>
-File: P3/img/step13.1.jpg Graphic file (type jpg)
-<use P3/img/step13.1.jpg>
-Package pdftex.def Info: P3/img/step13.1.jpg  used on input line 178.
-(pdftex.def)             Requested size: 241.84843pt x 255.71573pt.
-<P3/img/step13.2.jpg, id=120, 719.68875pt x 762.59906pt>
-File: P3/img/step13.2.jpg Graphic file (type jpg)
-<use P3/img/step13.2.jpg>
-Package pdftex.def Info: P3/img/step13.2.jpg  used on input line 183.
-(pdftex.def)             Requested size: 241.84843pt x 256.26645pt.
- [8 <./P3/img/step11.jpg> <./P3/img/step12.jpg>]
-<P3/img/step14.jpg, id=129, 720.44156pt x 764.8575pt>
-File: P3/img/step14.jpg Graphic file (type jpg)
-<use P3/img/step14.jpg>
-Package pdftex.def Info: P3/img/step14.jpg  used on input line 192.
-(pdftex.def)             Requested size: 241.84843pt x 256.75694pt.
- [9 <./P3/img/step13.1.jpg> <./P3/img/step13.2.jpg>]
-<P3/img/step15.jpg, id=136, 963.6pt x 451.6875pt>
-File: P3/img/step15.jpg Graphic file (type jpg)
-<use P3/img/step15.jpg>
-Package pdftex.def Info: P3/img/step15.jpg  used on input line 201.
-(pdftex.def)             Requested size: 338.58632pt x 158.70639pt.
-<P3/img/step16.jpg, id=137, 717.43031pt x 764.8575pt>
-File: P3/img/step16.jpg Graphic file (type jpg)
-<use P3/img/step16.jpg>
-Package pdftex.def Info: P3/img/step16.jpg  used on input line 211.
-(pdftex.def)             Requested size: 241.84843pt x 257.83066pt.
-<P3/img/step16.2.jpg, id=138, 717.43031pt x 765.6103pt>
-File: P3/img/step16.2.jpg Graphic file (type jpg)
-<use P3/img/step16.2.jpg>
-Package pdftex.def Info: P3/img/step16.2.jpg  used on input line 216.
-(pdftex.def)             Requested size: 241.84843pt x 258.08443pt.
- [10 <./P3/img/step14.jpg> <./P3/img/step15.jpg>]
-<P3/img/step17.jpg, id=147, 963.6pt x 450.18187pt>
-File: P3/img/step17.jpg Graphic file (type jpg)
-<use P3/img/step17.jpg>
-Package pdftex.def Info: P3/img/step17.jpg  used on input line 225.
-(pdftex.def)             Requested size: 338.58632pt x 158.17737pt.
- [11 <./P3/img/step16.jpg> <./P3/img/step16.2.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 246--256
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 246--256
-
- []
-
-[12 <./P3/img/step17.jpg>]
-<P3/img/dokumpraktikum.jpg, id=160, 1284.8pt x 722.7pt>
-File: P3/img/dokumpraktikum.jpg Graphic file (type jpg)
-<use P3/img/dokumpraktikum.jpg>
-Package pdftex.def Info: P3/img/dokumpraktikum.jpg  used on input line 271.
-(pdftex.def)             Requested size: 362.77264pt x 204.05284pt.
-) [13] [14 <./P3/img/dokumpraktikum.jpg>] (main.aux)
+<P4/img/step2.1.jpg, id=58, 721.19438pt x 812.28468pt>
+File: P4/img/step2.1.jpg Graphic file (type jpg)
+<use P4/img/step2.1.jpg>
+Package pdftex.def Info: P4/img/step2.1.jpg  used on input line 63.
+(pdftex.def)             Requested size: 241.84843pt x 272.39282pt.
+<P4/img/step2.2.jpg, id=59, 720.44156pt x 812.28468pt>
+File: P4/img/step2.2.jpg Graphic file (type jpg)
+<use P4/img/step2.2.jpg>
+Package pdftex.def Info: P4/img/step2.2.jpg  used on input line 68.
+(pdftex.def)             Requested size: 241.84843pt x 272.6779pt.
+ [2 <./P4/img/step1.jpg>]
+<P4/img/step3.jpg, id=66, 720.44156pt x 812.28468pt>
+File: P4/img/step3.jpg Graphic file (type jpg)
+<use P4/img/step3.jpg>
+Package pdftex.def Info: P4/img/step3.jpg  used on input line 79.
+(pdftex.def)             Requested size: 241.84843pt x 272.6779pt.
+ [3 <./P4/img/step2.1.jpg> <./P4/img/step2.2.jpg>]
+<P4/img/step4.jpg, id=73, 362.85562pt x 695.59875pt>
+File: P4/img/step4.jpg Graphic file (type jpg)
+<use P4/img/step4.jpg>
+Package pdftex.def Info: P4/img/step4.jpg  used on input line 92.
+(pdftex.def)             Requested size: 241.84843pt x 463.63937pt.
+ [4 <./P4/img/step3.jpg>]
+<P4/img/step5.jpg, id=80, 963.6pt x 542.025pt>
+File: P4/img/step5.jpg Graphic file (type jpg)
+<use P4/img/step5.jpg>
+Package pdftex.def Info: P4/img/step5.jpg  used on input line 106.
+(pdftex.def)             Requested size: 241.84843pt x 136.03523pt.
+ [5 <./P4/img/step4.jpg>]
+<P4/img/step6.jpg, id=87, 963.6pt x 542.025pt>
+File: P4/img/step6.jpg Graphic file (type jpg)
+<use P4/img/step6.jpg>
+Package pdftex.def Info: P4/img/step6.jpg  used on input line 117.
+(pdftex.def)             Requested size: 241.84843pt x 136.03523pt.
+<P4/img/step7.jpg, id=88, 963.6pt x 542.025pt>
+File: P4/img/step7.jpg Graphic file (type jpg)
+<use P4/img/step7.jpg>
+Package pdftex.def Info: P4/img/step7.jpg  used on input line 129.
+(pdftex.def)             Requested size: 241.84843pt x 136.03523pt.
+<P4/img/step8.jpg, id=89, 952.30782pt x 547.2947pt>
+File: P4/img/step8.jpg Graphic file (type jpg)
+<use P4/img/step8.jpg>
+Package pdftex.def Info: P4/img/step8.jpg  used on input line 139.
+(pdftex.def)             Requested size: 241.84843pt x 138.98625pt.
+ [6 <./P4/img/step5.jpg> <./P4/img/step6.jpg> <./P4/img/step7.jpg>]
+<P4/img/2step1.jpg, id=101, 759.58781pt x 633.86812pt>
+File: P4/img/2step1.jpg Graphic file (type jpg)
+<use P4/img/2step1.jpg>
+Package pdftex.def Info: P4/img/2step1.jpg  used on input line 158.
+(pdftex.def)             Requested size: 241.84843pt x 201.8167pt.
+<P4/img/2step2.1.jpg, id=102, 720.44156pt x 812.28468pt>
+File: P4/img/2step2.1.jpg Graphic file (type jpg)
+<use P4/img/2step2.1.jpg>
+Package pdftex.def Info: P4/img/2step2.1.jpg  used on input line 171.
+(pdftex.def)             Requested size: 241.84843pt x 272.6779pt.
+<P4/img/2step2.2.jpg, id=103, 952.30782pt x 547.2947pt>
+File: P4/img/2step2.2.jpg Graphic file (type jpg)
+<use P4/img/2step2.2.jpg>
+Package pdftex.def Info: P4/img/2step2.2.jpg  used on input line 176.
+(pdftex.def)             Requested size: 241.84843pt x 138.98625pt.
+ [7 <./P4/img/step8.jpg> <./P4/img/2step1.jpg>]
+<P4/img/2step3.jpg, id=112, 963.6pt x 542.025pt>
+File: P4/img/2step3.jpg Graphic file (type jpg)
+<use P4/img/2step3.jpg>
+Package pdftex.def Info: P4/img/2step3.jpg  used on input line 187.
+(pdftex.def)             Requested size: 241.84843pt x 136.03523pt.
+ [8 <./P4/img/2step2.1.jpg> <./P4/img/2step2.2.jpg> <./P4/img/2step3.jpg>]
+<P4/img/2step4.jpg, id=121, 1027.58907pt x 580.41844pt>
+File: P4/img/2step4.jpg Graphic file (type jpg)
+<use P4/img/2step4.jpg>
+Package pdftex.def Info: P4/img/2step4.jpg  used on input line 200.
+(pdftex.def)             Requested size: 241.84843pt x 136.60205pt.
+<P4/img/2step5.jpg, id=122, 963.6pt x 542.025pt>
+File: P4/img/2step5.jpg Graphic file (type jpg)
+<use P4/img/2step5.jpg>
+Package pdftex.def Info: P4/img/2step5.jpg  used on input line 213.
+(pdftex.def)             Requested size: 241.84843pt x 136.03523pt.
+<P4/img/2step6.jpg, id=123, 963.6pt x 542.025pt>
+File: P4/img/2step6.jpg Graphic file (type jpg)
+<use P4/img/2step6.jpg>
+Package pdftex.def Info: P4/img/2step6.jpg  used on input line 224.
+(pdftex.def)             Requested size: 241.84843pt x 136.03523pt.
+ [9 <./P4/img/2step4.jpg> <./P4/img/2step5.jpg> <./P4/img/2step6.jpg>]
+<P4/img/2step7.jpg, id=134, 963.6pt x 542.025pt>
+File: P4/img/2step7.jpg Graphic file (type jpg)
+<use P4/img/2step7.jpg>
+Package pdftex.def Info: P4/img/2step7.jpg  used on input line 236.
+(pdftex.def)             Requested size: 241.84843pt x 136.03523pt.
+File: P4/img/2step6.jpg Graphic file (type jpg)
+<use P4/img/2step6.jpg>
+Package pdftex.def Info: P4/img/2step6.jpg  used on input line 246.
+(pdftex.def)             Requested size: 241.84843pt x 136.03523pt.
+LaTeX Font Info:    Trying to load font information for TS1+qhv on input line 271.
+ (C:\Users\Zafa\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\ts1qhv.fd
+File: ts1qhv.fd 2009/09/25 v1.2 font definition file for TS1/qhv
+) [10 <./P4/img/2step7.jpg>]
+<P4/img/dokumpraktikum.jpg, id=143, 1606.0pt x 903.375pt>
+File: P4/img/dokumpraktikum.jpg Graphic file (type jpg)
+<use P4/img/dokumpraktikum.jpg>
+Package pdftex.def Info: P4/img/dokumpraktikum.jpg  used on input line 301.
+(pdftex.def)             Requested size: 362.77264pt x 204.0501pt.
+) [11{C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}] [12 <./P4/img/dokumpraktikum.jpg>] (main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
@@ -953,23 +938,23 @@ L3 programming layer <2023-08-29>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E9D6FF731BC319D4DB6484F9C289261E;1265.
+(rerunfilecheck)             Checksum: B1A69C48EB79688700AB71FDDAB87581;1149.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21504 strings out of 475247
- 373894 string characters out of 5758263
- 1930801 words of memory out of 5000000
- 42696 multiletter control sequences out of 15000+600000
- 604774 words of font info for 65 fonts, out of 8000000 for 9000
+ 21511 strings out of 475247
+ 373847 string characters out of 5758263
+ 1927801 words of memory out of 5000000
+ 42703 multiletter control sequences out of 15000+600000
+ 605140 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,13n,81p,1217b,583s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,13n,81p,1217b,674s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvb.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvbi.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvr.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on main.pdf (15 pages, 3222868 bytes).
+Output written on main.pdf (13 pages, 2511614 bytes).
 PDF statistics:
- 212 PDF objects out of 1000 (max. 8388607)
- 62 named destinations out of 1000 (max. 500000)
- 196 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 198 PDF objects out of 1000 (max. 8388607)
+ 57 named destinations out of 1000 (max. 500000)
+ 173 words of extra memory for PDF output out of 10000 (max. 10000000)
 
