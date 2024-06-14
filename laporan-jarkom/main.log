@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.10.25)  7 JUN 2024 11:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.10.25)  14 JUN 2024 13:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -690,12 +690,6 @@ LaTeX Warning: Label `fig:gambar1' multiply defined.
 
 LaTeX Warning: Label `fig:gambar1' multiply defined.
 
-
-LaTeX Warning: Label `fig:gambar1' multiply defined.
-
-
-LaTeX Warning: Label `fig:gambar1' multiply defined.
-
 )
 \openout1 = `main.aux'.
 
@@ -817,113 +811,115 @@ Package pdftex.def Info: Cover/img/footer.png  used on input line 23.
 
 
 {C:/Users/Zafa/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ec.enc} <./Cover/img/logodepart.png> <./Cover/img/footer.png>]) (P5/IPv6.tex
-<P1/img/contoh.png, id=52, 225.84375pt x 225.84375pt>
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 44.
-(pdftex.def)             Requested size: 338.58632pt x 338.63037pt.
+<P5/img/step1.jpg, id=52, 759.58781pt x 633.86812pt>
+File: P5/img/step1.jpg Graphic file (type jpg)
+<use P5/img/step1.jpg>
+Package pdftex.def Info: P5/img/step1.jpg  used on input line 45.
+(pdftex.def)             Requested size: 338.58632pt x 282.5492pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.51 	
-       [1
+l.49 
+      [1
 
 ]
+<P5/img/step2.jpg, id=60, 648.17157pt x 360.59718pt>
+File: P5/img/step2.jpg Graphic file (type jpg)
+<use P5/img/step2.jpg>
+Package pdftex.def Info: P5/img/step2.jpg  used on input line 56.
+(pdftex.def)             Requested size: 338.58632pt x 188.36446pt.
+
+Overfull \hbox (0.43214pt too wide) in paragraph at lines 62--64
+[]\T1/qhv/m/n/10.95 Konfigurasi IPv6 Ro-u-ter 1 un-tuk meng-hu-bungk-an PC 1 de-ngan Ro-u-ter 1. Tam-bahk-an IP address
+ []
+
+<P5/img/step3.jpg, id=61, 488.57532pt x 362.10281pt>
+File: P5/img/step3.jpg Graphic file (type jpg)
+<use P5/img/step3.jpg>
+Package pdftex.def Info: P5/img/step3.jpg  used on input line 67.
+(pdftex.def)             Requested size: 338.58632pt x 250.94519pt.
+[2 <./P5/img/step1.jpg> <./P5/img/step2.jpg>]
+<P5/img/step4.jpg, id=70, 405.01312pt x 581.17125pt>
+File: P5/img/step4.jpg Graphic file (type jpg)
+<use P5/img/step4.jpg>
+Package pdftex.def Info: P5/img/step4.jpg  used on input line 80.
+(pdftex.def)             Requested size: 338.58632pt x 485.86598pt.
+ [3 <./P5/img/step3.jpg>]
+<P1/img/contoh.png, id=77, 225.84375pt x 225.84375pt>
 File: P1/img/contoh.png Graphic file (type png)
 <use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 54.
+Package pdftex.def Info: P1/img/contoh.png  used on input line 91.
 (pdftex.def)             Requested size: 338.58632pt x 338.63037pt.
- [2 <./P1/img/contoh.png>]
+ [4 <./P5/img/step4.jpg>]
 File: P1/img/contoh.png Graphic file (type png)
 <use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 64.
+Package pdftex.def Info: P1/img/contoh.png  used on input line 102.
 (pdftex.def)             Requested size: 338.58632pt x 338.63037pt.
- [3]
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 74.
-(pdftex.def)             Requested size: 338.58632pt x 338.63037pt.
- [4]
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 84.
-(pdftex.def)             Requested size: 338.58632pt x 338.63037pt.
- [5]
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 94.
-(pdftex.def)             Requested size: 338.58632pt x 338.63037pt.
- [6]
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 104.
-(pdftex.def)             Requested size: 338.58632pt x 338.63037pt.
- [7]
+ [5 <./P1/img/contoh.png>]
 File: P1/img/contoh.png Graphic file (type png)
 <use P1/img/contoh.png>
 Package pdftex.def Info: P1/img/contoh.png  used on input line 114.
 (pdftex.def)             Requested size: 338.58632pt x 338.63037pt.
- [8]
+ [6]
 File: P1/img/contoh.png Graphic file (type png)
 <use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 132.
+Package pdftex.def Info: P1/img/contoh.png  used on input line 133.
 (pdftex.def)             Requested size: 338.58632pt x 338.63037pt.
- [9]
+ [7]
 File: P1/img/contoh.png Graphic file (type png)
 <use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 142.
+Package pdftex.def Info: P1/img/contoh.png  used on input line 144.
+(pdftex.def)             Requested size: 338.58632pt x 338.63037pt.
+ [8]
+Overfull \hbox (0.43214pt too wide) in paragraph at lines 150--152
+[]\T1/qhv/m/n/10.95 Konfigurasi IPv6 Ro-u-ter 2 un-tuk meng-hu-bungk-an PC 2 de-ngan Ro-u-ter 2. Tam-bahk-an IP address
+ []
+
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 155.
+(pdftex.def)             Requested size: 338.58632pt x 338.63037pt.
+[9]
+File: P1/img/contoh.png Graphic file (type png)
+<use P1/img/contoh.png>
+Package pdftex.def Info: P1/img/contoh.png  used on input line 168.
 (pdftex.def)             Requested size: 338.58632pt x 338.63037pt.
  [10]
 File: P1/img/contoh.png Graphic file (type png)
 <use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 152.
+Package pdftex.def Info: P1/img/contoh.png  used on input line 179.
 (pdftex.def)             Requested size: 338.58632pt x 338.63037pt.
  [11]
 File: P1/img/contoh.png Graphic file (type png)
 <use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 162.
+Package pdftex.def Info: P1/img/contoh.png  used on input line 190.
 (pdftex.def)             Requested size: 338.58632pt x 338.63037pt.
  [12]
 File: P1/img/contoh.png Graphic file (type png)
 <use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 172.
+Package pdftex.def Info: P1/img/contoh.png  used on input line 202.
 (pdftex.def)             Requested size: 338.58632pt x 338.63037pt.
  [13]
 File: P1/img/contoh.png Graphic file (type png)
 <use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 182.
+Package pdftex.def Info: P1/img/contoh.png  used on input line 220.
 (pdftex.def)             Requested size: 338.58632pt x 338.63037pt.
  [14]
 File: P1/img/contoh.png Graphic file (type png)
 <use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 192.
-(pdftex.def)             Requested size: 338.58632pt x 338.63037pt.
- [15]
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 202.
-(pdftex.def)             Requested size: 338.58632pt x 338.63037pt.
- [16]
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
-Package pdftex.def Info: P1/img/contoh.png  used on input line 220.
-(pdftex.def)             Requested size: 338.58632pt x 338.63037pt.
- [17]
-File: P1/img/contoh.png Graphic file (type png)
-<use P1/img/contoh.png>
 Package pdftex.def Info: P1/img/contoh.png  used on input line 230.
 (pdftex.def)             Requested size: 338.58632pt x 338.63037pt.
- [18]
+ [15]
 LaTeX Font Info:    Trying to load font information for TS1+qhv on input line 252.
  (C:\Users\Zafa\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\ts1qhv.fd
 File: ts1qhv.fd 2009/09/25 v1.2 font definition file for TS1/qhv
-) [19{C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
+) [16{C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
 File: P1/img/contoh.png Graphic file (type png)
 <use P1/img/contoh.png>
 Package pdftex.def Info: P1/img/contoh.png  used on input line 281.
 (pdftex.def)             Requested size: 362.77264pt x 362.8185pt.
-) [20] [21] (main.aux)
+) [17] [18] (main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
@@ -939,17 +935,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21407 strings out of 475247
- 371084 string characters out of 5758263
- 1928801 words of memory out of 5000000
- 42583 multiletter control sequences out of 15000+600000
+ 21428 strings out of 475247
+ 371655 string characters out of 5758263
+ 1927801 words of memory out of 5000000
+ 42611 multiletter control sequences out of 15000+600000
  605140 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,13n,81p,1217b,676s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,13n,81p,1217b,674s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvb.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvbi.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvr.pfb><C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on main.pdf (22 pages, 211187 bytes).
+Output written on main.pdf (19 pages, 487925 bytes).
 PDF statistics:
- 240 PDF objects out of 1000 (max. 8388607)
- 73 named destinations out of 1000 (max. 500000)
- 88 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 225 PDF objects out of 1000 (max. 8388607)
+ 66 named destinations out of 1000 (max. 500000)
+ 108 words of extra memory for PDF output out of 10000 (max. 10000000)
 

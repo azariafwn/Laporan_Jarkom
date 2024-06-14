@@ -37,47 +37,54 @@ pertumbuhan Internet yang pesat dan kebutuhan alamat yang terus berkembang.
 
 \begin{enumerate}
 	% poin 1
-	\item 
+	\item Buka aplikasi Winbox pada PC1 dan hubungkan ke Router. Pastikan Login terisi “admin”, Klik
+	Neighbors > Klik Refresh > Pilih Router yang ingin disambungkan > Klik Connect.
 	
 	\begin{figure}[H]
 		\centering
-		\includegraphics[width=0.7\linewidth]{P1/img/contoh.png}
+		\includegraphics[width=0.7\linewidth]{P5/img/step1.jpg}
 		\caption{Step 1}
 		\label{fig:gambar1}
 	\end{figure}
 
 	% poin 2
-	\item 
+	\item Konfigurasikan Router1 untuk mengaktifkan layanan IPv6. Klik System > Klik Packages > Klik
+	IPv6 > Klik Enable > Reboot ulang Router1.
 	
 	\begin{figure}[H]
 		\centering
-		\includegraphics[width=0.7\linewidth]{P1/img/contoh.png}
+		\includegraphics[width=0.7\linewidth]{P5/img/step2.jpg}
 		\caption{Step 2}
 		\label{fig:gambar1}
 	\end{figure}
 
 	% poin 3
-	\item 
+	\item Konfigurasi IPv6 Router 1 untuk menghubungkan PC 1 dengan Router 1. Tambahkan IP address
+	> Isi address > pilih Interface yang terhubung ke PC 1 atau ether4 > Klik Apply > Klik OK.
 	
 	\begin{figure}[H]
 		\centering
-		\includegraphics[width=0.7\linewidth]{P1/img/contoh.png}
+		\includegraphics[width=0.7\linewidth]{P5/img/step3.jpg}
 		\caption{Step 3}
 		\label{fig:gambar1}
 	\end{figure}
 
 	% poin 4
-	\item 
+	\item Konfigurasi IPv6 pada PC 1 dengan mengubah pengaturan pada setting ethernet. Ubah IPv6
+	perangkat yang otomatis menjadi manual, pastikan IPv6 PC 1 masih satu jaringan dengan IPv6
+	lokal yang diinginkan, isi Gateway dengan IPv6 address Router 1 yang tersambung dengan PC
+	1. Berikan IPv6 address yang berbeda dengan contoh yang ada di modul.
 	
 	\begin{figure}[H]
 		\centering
-		\includegraphics[width=0.7\linewidth]{P1/img/contoh.png}
+		\includegraphics[width=0.7\linewidth]{P5/img/step4.jpg}
 		\caption{Step 4}
 		\label{fig:gambar1}
 	\end{figure}
 
 	% poin 5
-	\item 
+	\item Lakukan uji coba ping dari Router 1 ke PC 1 dan sebaliknya untuk memastikan kedua perangkat
+	sudah saling terhubung.	
 	
 	\begin{figure}[H]
 		\centering
@@ -87,7 +94,8 @@ pertumbuhan Internet yang pesat dan kebutuhan alamat yang terus berkembang.
 	\end{figure}
 
 	% poin 6
-	\item  	
+	\item Konfigurasi IPv6 Router 1 untuk menghubungkan Router 1 dengan Router 2. Tambahkan
+	address IPv6 > Isi address > pilih Interface yang terhubung ke Router 2 (ether2) > Klik Apply > Klik OK.
 	
 	\begin{figure}[H]
 		\centering
@@ -97,22 +105,14 @@ pertumbuhan Internet yang pesat dan kebutuhan alamat yang terus berkembang.
 	\end{figure}
 
 	% poin 7
-	\item 
+	\item Hubungkan kedua Network menggunakan routing statis. Buka pada tab IPv6 > Routes. Lalu
+	tambahkan routes. Masukkan alamat jaringan yang ingin dituju, melalui alamat Gateway pada
+	Router 2.
 	
 	\begin{figure}[H]
 		\centering
 		\includegraphics[width=0.7\linewidth]{P1/img/contoh.png}
 		\caption{Step 7}
-		\label{fig:gambar1}
-	\end{figure}
-
-	% poin 8
-	\item 
-	
-	\begin{figure}[H]
-		\centering
-		\includegraphics[width=0.7\linewidth]{P1/img/contoh.png}
-		\caption{Step 8}
 		\label{fig:gambar1}
 	\end{figure}
 
@@ -125,7 +125,8 @@ pertumbuhan Internet yang pesat dan kebutuhan alamat yang terus berkembang.
 
 \begin{enumerate}
 	% poin 1
-	\item 
+	\item Buka aplikasi Winbox pada PC2 dan hubungkan ke Router. Pastikan Login terisi “admin”, Klik
+	Neighbors > Klik Refresh > Pilih Router yang ingin disambungkan > Klik Connect.
 	
 	\begin{figure}[H]
 		\centering
@@ -135,7 +136,8 @@ pertumbuhan Internet yang pesat dan kebutuhan alamat yang terus berkembang.
 	\end{figure}
 
 	% poin 2
-	\item 	
+	\item Konfigurasikan Router2 untuk mengaktifkan layanan IPv6. Klik System > Klik Packages > Klik
+	IPv6 > Klik Enable > Reboot ulang Router2.	
 	
 	\begin{figure}[H]
 		\centering
@@ -145,7 +147,8 @@ pertumbuhan Internet yang pesat dan kebutuhan alamat yang terus berkembang.
 	\end{figure}
 
 	% poin 3
-	\item 
+	\item Konfigurasi IPv6 Router 2 untuk menghubungkan PC 2 dengan Router 2. Tambahkan IP address
+	> Isi address > pilih Interface yang terhubung ke PC 2 (ether4) > Klik Apply > Klik OK.
 	
 	\begin{figure}[H]
 		\centering
@@ -155,7 +158,10 @@ pertumbuhan Internet yang pesat dan kebutuhan alamat yang terus berkembang.
 	\end{figure}
 
 	% poin 4
-	\item 
+	\item Konfigurasi IPv6 pada PC 2 dengan mengubah pengaturan pada setting ethernet. Ubah IPv6
+	perangkat yang otomatis menjadi manual, pastikan IPv6 PC 2 masih satu jaringan dengan IPv6
+	lokal yang diinginkan, isi Gateway dengan IPv6 address Router 2 yang tersambung dengan PC
+	2. Berikan IPv6 address yang berbeda dengan contoh yang ada di modul.
 	
 	\begin{figure}[H]
 		\centering
@@ -165,7 +171,8 @@ pertumbuhan Internet yang pesat dan kebutuhan alamat yang terus berkembang.
 	\end{figure}
 
 	% poin 5
-	\item 
+	\item Lakukan uji coba ping dari Router 2 ke PC 2 dan sebaliknya untuk memastikan kedua perangkat
+	sudah saling terhubung.	
 	
 	\begin{figure}[H]
 		\centering
@@ -175,7 +182,8 @@ pertumbuhan Internet yang pesat dan kebutuhan alamat yang terus berkembang.
 	\end{figure}
 
 	% poin 6
-	\item 
+	\item Konfigurasi IPv6 Router 2 untuk menghubungkan Router 2 dengan Router 1. Tambahkan
+	address IPv6 > Isi address > pilih Interface yang terhubung ke Router 1 (ether2) > Klik Apply > Klik OK.
 	
 	\begin{figure}[H]
 		\centering
@@ -185,22 +193,14 @@ pertumbuhan Internet yang pesat dan kebutuhan alamat yang terus berkembang.
 	\end{figure}
 
 	% poin 7
-	\item 
+	\item Hubungkan kedua Network menggunakan routing statis. Buka pada tab IPv6 > Routes. Lalu
+	tambahkan routes. Masukkan alamat jaringan yang ingin dituju, melalui alamat Gateway pada
+	Router 1.
 	
 	\begin{figure}[H]
 		\centering
 		\includegraphics[width=0.7\linewidth]{P1/img/contoh.png}
 		\caption{Step 7}
-		\label{fig:gambar1}
-	\end{figure}
-
-	% poin 8
-	\item 
-	
-	\begin{figure}[H]
-		\centering
-		\includegraphics[width=0.7\linewidth]{P1/img/contoh.png}
-		\caption{Step 8}
 		\label{fig:gambar1}
 	\end{figure}
 
@@ -213,7 +213,7 @@ pertumbuhan Internet yang pesat dan kebutuhan alamat yang terus berkembang.
 
 \begin{enumerate}
 	% poin 1
-	\item 
+	\item Lakukan tes ping ke alamat IPv6 PC 2 untuk memastikan kedua PC sudah terhubung.
 	
 	\begin{figure}[H]
 		\centering
@@ -223,7 +223,7 @@ pertumbuhan Internet yang pesat dan kebutuhan alamat yang terus berkembang.
 	\end{figure}
 
 	% poin 2
-	\item 	
+	\item Lakukan tes ping ke alamat IPv6 PC 1 untuk memastikan kedua PC sudah terhubung.
 	
 	\begin{figure}[H]
 		\centering

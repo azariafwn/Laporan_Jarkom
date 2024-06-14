@@ -1,11 +1,11 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1717733987 -1
-  "main.bcf" 1717733986 106702 c266856593a44b0bb4ae50b30663bde7 "pdflatex"
+["biber main"] 1718346252 "main.bcf" "main.bbl" "main" 1718346313 0
+  "main.bcf" 1718346312 106702 c266856593a44b0bb4ae50b30663bde7 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1717733982 "d:/TUGAS/SEM4/JARKOM/PRAKTIKUM-JARKOM/Laporan_Jarkom/laporan-jarkom/main.tex" "main.pdf" "main" 1717733987 0
+["pdflatex"] 1718346308 "d:/TUGAS/SEM4/JARKOM/PRAKTIKUM-JARKOM/Laporan_Jarkom/laporan-jarkom/main.tex" "main.pdf" "main" 1718346313 0
   "C:/Users/Zafa/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1715254212 123019 4e6d54fe28a67ad1b512b0cc9d03c2e8 ""
   "C:/Users/Zafa/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1698239302 24141606 69f531501dd5cbce3eae406a92b7cf9f ""
   "C:/Users/Zafa/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ec.enc" 1525740614 2457 aaabbccba4df2a7f7371410ee4e075a3 ""
@@ -141,12 +141,16 @@
   "Cover/img/footer.png" 1714584901 28618 66808c84f12f49ce70f8339a56e26dcb ""
   "Cover/img/logodepart.png" 1714584901 37002 e4a53892fe3eef46b801a8ae6ad8641f ""
   "P1/img/contoh.png" 1714584901 34277 487c256f21b067a4261badd7f298a536 ""
-  "P5/IPv6.tex" 1717733981 8439 9f4c26b60f603b9e8a49abb2dcc8d708 ""
-  "d:/TUGAS/SEM4/JARKOM/PRAKTIKUM-JARKOM/Laporan_Jarkom/laporan-jarkom/main.tex" 1717731831 2447 a4ba20efcd71bb6d3008f20789ddbe19 ""
-  "main.aux" 1717733986 5468 77f164b3c9aa7e37c36ef30d86a18838 "pdflatex"
-  "main.bbl" 1717733139 0 d41d8cd98f00b204e9800998ecf8427e "biber main"
-  "main.out" 1717733986 1149 b1a69c48eb79688700ab71fddab87581 "pdflatex"
-  "main.run.xml" 1717733986 2290 d459b7c5f3521d0da9efe57afab3d05a "pdflatex"
+  "P5/IPv6.tex" 1718346303 10893 1ed40c64435ec6af3018e306d115beee ""
+  "P5/img/step1.jpg" 1717150587 111052 7b60c26a764fb4d9061b1bd642440944 ""
+  "P5/img/step2.jpg" 1717749947 76953 79bd8ce04bfba80872b73933157f2cc3 ""
+  "P5/img/step3.jpg" 1717750095 46062 1370cb91793d065c3486c22f0e5f3cfd ""
+  "P5/img/step4.jpg" 1717750205 41152 dcb1ac8f0ce7cda18e66a10646d17f07 ""
+  "d:/TUGAS/SEM4/JARKOM/PRAKTIKUM-JARKOM/Laporan_Jarkom/laporan-jarkom/main.tex" 1718346218 2447 a4ba20efcd71bb6d3008f20789ddbe19 ""
+  "main.aux" 1718346312 5086 e537418efeb9bbcbdf167227f238ac1a "pdflatex"
+  "main.bbl" 1718346258 0 d41d8cd98f00b204e9800998ecf8427e "biber main"
+  "main.out" 1718346312 1149 b1a69c48eb79688700ab71fddab87581 "pdflatex"
+  "main.run.xml" 1718346312 2290 d459b7c5f3521d0da9efe57afab3d05a "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"
